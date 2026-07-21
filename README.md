@@ -1,39 +1,40 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Shreya&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=bug+developer++cybersecurity+enthusiast&descSize=20&descAlignY=55">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Shreya&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI+Researcher++CyberSecurity+Enthusiast&descSize=20&descAlignY=55">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=Breaking+things+so+I+can+fix+them;Reverse+engineering+reality;Your+bugs+are+my+feature+requests;I+speak+fluent+0x00;Saturn+standard+time+%F0%9F%AA%B0">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=AI+meets+Security;Red+teaming+the+future;Adversarial+ML+is+my+love+language;India+standard+time+%F0%9F%87%AE%F0%9F%87%B3;Breaking+models%2C+fixing+systems">
 </p>
 
 <p align="center">
   <a href="https://github.com/shreya-oeo"><img src="https://img.shields.io/badge/GitHub-shreya--oeo-181717?style=flat-square&logo=github"></a>
-  <img src="https://img.shields.io/badge/Location-Saturn-%23FFD700?style=flat-square">
-  <img src="https://img.shields.io/badge/Role-Bug_Developer-ff0040?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-India-%23FF9933?style=flat-square">
+  <img src="https://img.shields.io/badge/Role-AI_Researcher-00ff41?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=shreya-oeo&color=00ff41&style=flat-square&label=visitors">
   <img src="https://img.shields.io/github/followers/shreya-oeo?style=social&label=followers">
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="30"> whoami
+## <img src="https://media.giphy.com/media/13HBDT4QSTBvew/giphy.gif" width="30"> whoami
 
 ```yaml
 name: Shreya
-location: Saturn
-role: Bug Developer & Cybersecurity Enthusiast
-company: bug developer
-mission: "Find bugs before they find you"
+location: India
+role: AI Researcher & CyberSecurity Enthusiast
+company: Tech Enthusiast
+mission: "Making AI safer, one exploit at a time"
 interests:
+  - AI_security
+  - adversarial_ML
   - offensive_security
   - reverse_engineering
   - automation_scripts
-  - breaking_stuff
 currently:
-  learning: "how deep the rabbit hole goes"
-  building: "tools that make the internet slightly less secure"
-  reading: "packet captures and source code"
-fun_fact: "There are 10 types of people in this world — those who understand binary and those who don't"
+  learning: "how LLMs break under pressure"
+  building: "AI-powered security tools"
+  reading: "research papers and packet captures"
+fun_fact: "The shortest AI alignment joke is two tokens long: 'just deploy'"
 ```
 
 ---
@@ -41,9 +42,9 @@ fun_fact: "There are 10 types of people in this world — those who understand b
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> currently vibing with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -51,9 +52,16 @@ fun_fact: "There are 10 types of people in this world — those who understand b
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+</p>
+
 ---
 
-## <img src="https://media.giphy.com/media/jSKBDmNhMkXQm7Q7Dy/giphy.gif" width="30"> what I've been cooking
+## <img src="https://media.giphy.com/media/3o7TKtnu0wYADhQM6Y/giphy.gif" width="30"> what I've been cooking
 
 | Project | Stars | Stack | The gist |
 |---------|-------|-------|----------|
@@ -66,7 +74,7 @@ fun_fact: "There are 10 types of people in this world — those who understand b
 
 ---
 
-## <img src="https://media.giphy.com/media/13HBDT4QSTBvew/giphy.gif" width="30"> GitHub pulse
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> GitHub pulse
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreya-oeo&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="420">
@@ -89,11 +97,12 @@ fun_fact: "There are 10 types of people in this world — those who understand b
   <summary><b>click if you dare</b></summary>
   <br>
   <ul>
-    <li>My code has no bugs — it just develops unexpected features</li>
-    <li>I <code>console.log</code> my way to the truth</li>
-    <li>Saturn is nice this time of year. The rings are great for ring buffer jokes.</li>
-    <li>I don't always test my code, but when I do, I test in production</li>
-    <li>Favorite HTTP status code: <code>418 I'm a teapot</code></li>
+    <li>My neurons are biological but my neural nets are PyTorch</li>
+    <li>I'm on the spectrum between <code>import this</code> and <code>rm -rf /</code></li>
+    <li>India has 22 official languages — I code in all of them (just kidding, it's mostly Python)</li>
+    <li>An AI asked me out once. I said "I'm more into supervised learning."</li>
+    <li>Favorite attack vector: the space between the keyboard and the chair</li>
+    <li>I use <code>try-except</code> in real life — it works 60% of the time, every time</li>
   </ul>
 </details>
 
@@ -111,7 +120,7 @@ fun_fact: "There are 10 types of people in this world — those who understand b
   <a href="https://github.com/shreya-oeo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:shreya@bugdeveloper.space">
+  <a href="mailto:shreya@techenthusiast.space">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="#">
