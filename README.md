@@ -82,12 +82,17 @@ currently:
 ## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> GitHub pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-oeo&show_icons=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-oeo&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="340">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-oeo&theme=github_dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-oeo&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-oeo&theme=github_dark" width="340">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-oeo&theme=github_dark" width="340">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreya-oeo&theme=github_dark" width="340">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreya-oeo&theme=github_dark" width="340">
 </p>
 
 <p align="center">
