@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=AI+meets+Security;Red+teaming+the+future;Adversarial+ML+is+my+love+language;India+standard+time+%F0%9F%87%AE%F0%9F%87%B3;Breaking+models%2C+fixing+systems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=AI+meets+Security;Red+teaming+the+future;Breaking+models+to+fix+systems;India+standard+time+%F0%9F%87%AE%F0%9F%87%B3;Adversarial+ML+is+the+new+frontier">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/13HBDT4QSTBvew/giphy.gif" width="30"> whoami
+## <img src="https://media.giphy.com/media/13HBDT4QSTBvew/giphy.gif" width="30"> about
 
 ```yaml
 name: Shreya
@@ -25,52 +25,57 @@ role: AI Researcher & CyberSecurity Enthusiast
 company: Tech Enthusiast
 mission: "Making AI safer, one exploit at a time"
 interests:
-  - AI_security
-  - adversarial_ML
-  - offensive_security
+  - AI_security & adversarial_ML
+  - offensive_security & red_teaming
   - reverse_engineering
-  - automation_scripts
+  - automation & scripting
 currently:
-  learning: "how LLMs break under pressure"
-  building: "AI-powered security tools"
-  reading: "research papers and packet captures"
-fun_fact: "The shortest AI alignment joke is two tokens long: 'just deploy'"
+  learning: how LLMs behave under adversarial pressure
+  building: AI-powered security assessment tools
+  reading: ML research papers + network packet captures
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> currently vibing with
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> tech arsenal
 
 <p align="center">
+  <b>Languages & Frameworks</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+</p>
+
+<p align="center">
+  <b>AI & ML</b><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+<p align="center">
+  <b>Security & Tools</b><br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-</p>
-
 ---
 
-## <img src="https://media.giphy.com/media/3o7TKtnu0wYADhQM6Y/giphy.gif" width="30"> what I've been cooking
+## <img src="https://media.giphy.com/media/3o7TKtnu0wYADhQM6Y/giphy.gif" width="30"> featured projects
 
-| Project | Stars | Stack | The gist |
-|---------|-------|-------|----------|
-| [emailnator-api](https://github.com/shreya-oeo/emailnator-api) | 5 | JavaScript | Reverse-engineered emailnator.com — temp mail on demand |
-| [cryptoshop](https://github.com/shreya-oeo/cryptoshop) | 3 | HTML | Static site that watches the blockchain for payment confirmations |
-| [layer7-dos-tool](https://github.com/shreya-oeo/layer7-dos-tool) | 3 | VB.NET | Because sometimes you need to stress-test the stress-tester |
-| [clipper](https://github.com/shreya-oeo/clipper) | 1 | HTML | HTA that lives in your clipboard and swaps text patterns in real-time |
-| [Pixel-Vector-OCR](https://github.com/shreya-oeo/Pixel-Vector-OCR) | 1 | Python | OCR engine built pixel-by-pixel, zero ML libraries touched |
-| [discord-webhook-sender](https://github.com/shreya-oeo/discord-webhook-sender) | 0 | HTML | Webhook sender because every channel needs a little chaos |
+| Project | Stars | Stack | What it does |
+|---------|-------|-------|-------------|
+| [emailnator-api](https://github.com/shreya-oeo/emailnator-api) | 5 | JavaScript | Reverse-engineered emailnator.com — temp mail API on demand |
+| [cryptoshop](https://github.com/shreya-oeo/cryptoshop) | 3 | HTML | Blockchain payment verification — static checkout monitor |
+| [layer7-dos-tool](https://github.com/shreya-oeo/layer7-dos-tool) | 3 | VB.NET | Layer 7 stress testing utility |
+| [clipper](https://github.com/shreya-oeo/clipper) | 1 | HTML | HTA clipboard monitor — swaps text patterns in real-time |
+| [Pixel-Vector-OCR](https://github.com/shreya-oeo/Pixel-Vector-OCR) | 1 | Python | OCR from scratch — pixel-level, zero ML libraries |
+| [discord-webhook-sender](https://github.com/shreya-oeo/discord-webhook-sender) | 0 | HTML | Discord webhook utility for channel automation |
 
 ---
 
@@ -83,6 +88,12 @@ fun_fact: "The shortest AI alignment joke is two tokens long: 'just deploy'"
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-oeo&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-oeo&theme=github-dark-dimmed&custom_title=Recent%20Activity&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41">
+  </a>
 </p>
 
 <p align="center">
@@ -125,6 +136,15 @@ fun_fact: "The shortest AI alignment joke is two tokens long: 'just deploy'"
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shreya">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
 
